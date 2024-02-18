@@ -1,0 +1,77 @@
+    <svg width="100%" height="100%" id="b9146b30-b528-476c-861c-4c9ae4939a75" data-name="Layer 2"
+                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500.15 500.15">
+                <defs>
+                    <style>
+                        .a218070e-3308-429c-889f-fbdcc1701363 {
+                            fill: #fff;
+                        }
+
+                        .a0ca1a6c-cdd4-4b65-8e96-14ff75a25685 {
+                            fill: #e8f0fe;
+                        }
+
+                        .f9e1f196-2a36-4c46-a1e4-f9b7e55a2b54 {
+                            fill: #669df6;
+                        }
+
+                        .e00dff39-fbf4-45a9-92fd-c7351314372e {
+                            fill: none;
+                            stroke: #66bb6a;
+                            stroke-miterlimit: 10;
+                            stroke-width: 10px;
+                        }
+
+                        .eb4e9e1f-cc25-4800-a32c-2c83ea631f19 {
+                            fill: #ffd54f;
+                        }
+
+                        .a34072b9-ca98-4f2d-8289-fb1f52764a86 {
+                            fill: #fbc02d;
+                        }
+
+                        .af9ec3c1-7bda-4678-9e3e-1b6fff3ba092 {
+                            fill: #ef5350;
+                        }
+
+                        .be3cf2b0-37d3-49b6-b76f-8aefb7da3e4b {
+                            font-size: 50px;
+                            fill: #4d4d4d;
+                            font-family: Tahoma-Bold, Tahoma;
+                            font-weight: 700;
+                        }
+
+                        .ed122bd1-cf42-4051-831d-ef609cbf102a {
+                            font-size: 30px;
+                        }
+                    </style>
+                </defs>
+                <title>CashBack</title>
+                <rect class="a218070e-3308-429c-889f-fbdcc1701363" width="500.15" height="500.15" />
+                <path class="a0ca1a6c-cdd4-4b65-8e96-14ff75a25685"
+                    d="M500,305c-42.28-2.44-114.19-6.39-136.21-6.39-31.85,0-119.4,12.54-177.27,28.9C89.84,354.86,0,391.07,0,391.07V500H500Z" />
+                <path class="f9e1f196-2a36-4c46-a1e4-f9b7e55a2b54"
+                    d="M500,387.05H351.21a18.42,18.42,0,0,0-18.42,18.42v92.64a16.84,16.84,0,0,0,.1,1.89H500Z" />
+                <circle class="e00dff39-fbf4-45a9-92fd-c7351314372e" cx="467.48" cy="391.07" r="25.98" />
+                <path class="e00dff39-fbf4-45a9-92fd-c7351314372e" d="M438.52,500c0-25.48-44.72-22.27-44.72,0" />
+                <circle class="e00dff39-fbf4-45a9-92fd-c7351314372e" cx="347.44" cy="447.74" r="25.98" />
+                <rect class="a0ca1a6c-cdd4-4b65-8e96-14ff75a25685" x="276.63" y="377.06" width="56.16"
+                    height="122.94" />
+                <path class="eb4e9e1f-cc25-4800-a32c-2c83ea631f19"
+                    d="M353.32,245.42H500a0,0,0,0,1,0,0v33.16a0,0,0,0,1,0,0H353.32a6.37,6.37,0,0,1-6.37-6.37V251.79A6.37,6.37,0,0,1,353.32,245.42Z" />
+                <path class="eb4e9e1f-cc25-4800-a32c-2c83ea631f19"
+                    d="M353.47,245.57H500.15a0,0,0,0,1,0,0v33.16a0,0,0,0,1,0,0H353.47a6.37,6.37,0,0,1-6.37-6.37V251.94A6.37,6.37,0,0,1,353.47,245.57Z" />
+                <path class="eb4e9e1f-cc25-4800-a32c-2c83ea631f19"
+                    d="M363.79,278.58H500a0,0,0,0,1,0,0V387.53a0,0,0,0,1,0,0H370.16a6.37,6.37,0,0,1-6.37-6.37V278.58A0,0,0,0,1,363.79,278.58Z" />
+                <rect class="a34072b9-ca98-4f2d-8289-fb1f52764a86" x="363.79" y="278.58" width="136.21"
+                    height="10.71" />
+                <path class="af9ec3c1-7bda-4678-9e3e-1b6fff3ba092"
+                    d="M428.43,235.05h17.14a3.53,3.53,0,0,1,3.53,3.53V387.31a0,0,0,0,1,0,0H424.89a0,0,0,0,1,0,0V238.58A3.53,3.53,0,0,1,428.43,235.05Z" />
+                <path class="af9ec3c1-7bda-4678-9e3e-1b6fff3ba092"
+                    d="M399.1,245.57h30.72l1.76-1.76-22.37-22.36a3.52,3.52,0,0,0-5,0l-12.13,12.12a3.54,3.54,0,0,0,0,5Z" />
+                <path class="af9ec3c1-7bda-4678-9e3e-1b6fff3ba092"
+                    d="M474.9,245.57H444.18l-1.76-1.76,22.37-22.36a3.52,3.52,0,0,1,5,0l12.13,12.12a3.54,3.54,0,0,1,0,5Z" />
+                <text class="be3cf2b0-37d3-49b6-b76f-8aefb7da3e4b" transform="translate(26.53 119.64)">₹ 250<tspan
+                        class="ed122bd1-cf42-4051-831d-ef609cbf102a">
+                        <tspan x="0" y="72">Cashback</tspan>
+                    </tspan></text>
+            </svg>
